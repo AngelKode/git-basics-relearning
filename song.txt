@@ -1,6 +1,1 @@
-First Commit
-Editing from github
-
-nuevo
-
-starting new branch
+New content when merging non-fast-forward
