@@ -1,3 +1,4 @@
+
 First Commit
 Editing from github
 
@@ -7,4 +8,7 @@ nuevo
 This is the actual head of the main
 
 starting new branch
+
+
+New content when merging non-fast-forward
 
